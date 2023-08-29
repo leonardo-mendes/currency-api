@@ -57,4 +57,5 @@ It was a very challenging project in which I had to solve many, many development
 - I couldn't write unit tests
 - I couldn't put the service in the same mongodb docker-compose file
 - I couldn't create a fallback for the rest call, I need to study more about this with ts + fetch
+- I've built a simple cron job, but for professional project i think is common to use the node-schedule, right? To handle the concurrency
 - As I followed the guides above, I followed their project organization (folder structure, class names, gitignore and etc), but I don't feel confident it was the best structure
